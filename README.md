@@ -1,2 +1,2 @@
 # DRCSNet
-We will release the source code of DRCSNet after the paper is accepted.
+The paper is accepted, which is at https://doi.org/10.1049/cvi2.12260, and is not published now. Please access it later.
